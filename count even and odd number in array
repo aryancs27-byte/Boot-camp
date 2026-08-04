@@ -1,0 +1,16 @@
+class Main {
+    public static void main(String[] args) {
+        int[]arr= {10,23,50,45,24};
+        int odd=0;
+        int even=0;
+        for(int i=0;i<5;i++)
+        {
+            if(arr[i]% 2 == 0)
+              even++;
+            else
+              odd++;
+        }
+        System.out.println("even number count" +even);
+        System.out.println("odd number" +odd);
+    }
+}
