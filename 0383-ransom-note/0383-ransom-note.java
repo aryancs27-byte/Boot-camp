@@ -13,7 +13,7 @@ class Solution {
 
         for (char c : ransomNote.toCharArray()) {
             if (charCounts[c - 'a'] == 0) {
-                return false; // Character not available or runs out
+                return false; 
             }
             charCounts[c - 'a']--;
         }
