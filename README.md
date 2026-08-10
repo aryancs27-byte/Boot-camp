@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryancs27-byte/Boot-camp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
@@ -13,6 +14,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/aryancs27-byte/Boot-camp/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/0344-reverse-string/) | Easy |
 ## String
@@ -32,6 +34,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -49,4 +52,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
