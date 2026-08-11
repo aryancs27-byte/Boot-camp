@@ -75,6 +75,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/aryancs27-byte/Boot-camp/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/aryancs27-byte/Boot-camp/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/aryancs27-byte/Boot-camp/tree/main/0326-power-of-three/) | Easy |
@@ -83,6 +84,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/aryancs27-byte/Boot-camp/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/aryancs27-byte/Boot-camp/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
