@@ -74,10 +74,12 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -107,4 +109,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
