@@ -7,6 +7,7 @@
 | [0056-merge-intervals](https://github.com/aryancs27-byte/Boot-camp/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryancs27-byte/Boot-camp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
@@ -34,6 +35,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/aryancs27-byte/Boot-camp/tree/main/0383-ransom-note/) | Easy |
 ## Sorting
@@ -42,6 +44,7 @@
 | [0056-merge-intervals](https://github.com/aryancs27-byte/Boot-camp/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/aryancs27-byte/Boot-camp/tree/main/0147-insertion-sort-list/) | Medium |
+| [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
 ## Stack
