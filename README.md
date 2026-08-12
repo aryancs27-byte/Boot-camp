@@ -30,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/aryancs27-byte/Boot-camp/tree/main/0383-ransom-note/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@
 | [0326-power-of-three](https://github.com/aryancs27-byte/Boot-camp/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 <!---LeetCode Topics End-->
