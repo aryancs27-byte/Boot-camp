@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryancs27-byte/Boot-camp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0179-largest-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0179-largest-number/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/aryancs27-byte/Boot-camp/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -76,6 +77,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
 ## Quicksort
@@ -155,6 +157,11 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryancs27-byte/Boot-camp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
