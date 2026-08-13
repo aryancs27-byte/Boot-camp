@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/aryancs27-byte/Boot-camp/tree/main/0383-ransom-note/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +151,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0179-largest-number/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
