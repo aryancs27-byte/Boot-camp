@@ -39,6 +39,7 @@
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/aryancs27-byte/Boot-camp/tree/main/0383-ransom-note/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryancs27-byte/Boot-camp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -154,5 +155,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryancs27-byte/Boot-camp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
