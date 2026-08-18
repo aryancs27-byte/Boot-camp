@@ -31,6 +31,7 @@
 | [0125-valid-palindrome](https://github.com/aryancs27-byte/Boot-camp/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/aryancs27-byte/Boot-camp/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/aryancs27-byte/Boot-camp/tree/main/0147-insertion-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/aryancs27-byte/Boot-camp/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/aryancs27-byte/Boot-camp/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
