@@ -95,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/aryancs27-byte/Boot-camp/tree/main/0147-insertion-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/aryancs27-byte/Boot-camp/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/aryancs27-byte/Boot-camp/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/aryancs27-byte/Boot-camp/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/aryancs27-byte/Boot-camp/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
