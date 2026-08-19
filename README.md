@@ -186,6 +186,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +221,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
