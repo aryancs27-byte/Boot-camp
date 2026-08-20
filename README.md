@@ -188,6 +188,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -219,6 +220,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -239,6 +241,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
