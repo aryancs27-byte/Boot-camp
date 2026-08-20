@@ -188,6 +188,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -206,6 +207,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -222,6 +224,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -244,6 +247,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aryancs27-byte/Boot-camp/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
