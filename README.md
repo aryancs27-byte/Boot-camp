@@ -189,6 +189,7 @@
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
