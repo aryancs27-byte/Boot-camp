@@ -76,6 +76,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/aryancs27-byte/Boot-camp/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
@@ -273,4 +274,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/aryancs27-byte/Boot-camp/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
