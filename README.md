@@ -44,6 +44,7 @@
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/aryancs27-byte/Boot-camp/tree/main/0383-ransom-note/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryancs27-byte/Boot-camp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Hash Table
@@ -76,6 +77,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
