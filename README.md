@@ -7,6 +7,7 @@
 | [0056-merge-intervals](https://github.com/aryancs27-byte/Boot-camp/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryancs27-byte/Boot-camp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0179-largest-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -47,6 +48,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -128,6 +130,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -182,6 +185,7 @@
 | [0100-same-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0112-path-sum/) | Easy |
@@ -220,6 +224,7 @@
 | [0100-same-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0112-path-sum/) | Easy |
