@@ -1,82 +1,43 @@
-//import java.util.ArrayDeque;
-//import java.util.Deque;
-
-//class MyQueue {
-   // private Deque<Integer> inStack;
-    //private Deque<Integer> outStack;
-
-    //public MyQueue() {
-      //  inStack = new ArrayDeque<>();
-        //outStack = new ArrayDeque<>();
-    //}
-    
-    //public void push(int x) {
-      //  inStack.push(x);
-    //}
-    
-    //public int pop() {
-      //  moveInToOut();
-        //return outStack.pop();
-    //}
-    
-    //public int peek() {
-      //  moveInToOut();
-        //return outStack.peek();
-    //}
-    
-    //public boolean empty() {
-      //  return inStack.isEmpty() && outStack.isEmpty();
-    //}
-
-    //private void moveInToOut() {
-      //  if (outStack.isEmpty()) {
-        //    while (!inStack.isEmpty()) {
-          //      outStack.push(inStack.pop());
-            //}
-        //}
-    //}
-//}
+import java.util.ArrayDeque;
+import java.util.Deque;
 
 class MyQueue {
-    private int[] inStack;
-    private int[] outStack;
-    private int inTop;
-    private int outTop;
+    private Deque<Integer> inStack;
+    private Deque<Integer> outStack;
 
     public MyQueue() {
-   
-        inStack = new int[100];
-        outStack = new int[100];
-        inTop = -1;
-        outTop = -1;
+        inStack = new ArrayDeque<>();
+        outStack = new ArrayDeque<>();
     }
     
     public void push(int x) {
-        inStack[++inTop] = x;
+        inStack.push(x);
     }
     
     public int pop() {
         moveInToOut();
-        return outStack[outTop--];
+        return outStack.pop();
     }
     
     public int peek() {
         moveInToOut();
-        return outStack[outTop];
+        return outStack.peek();
     }
     
     public boolean empty() {
-        return inTop == -1 && outTop == -1;
+        return inStack.isEmpty() && outStack.isEmpty();
     }
 
+
     private void moveInToOut() {
-        if (outTop == -1) {
-            while (inTop >= 0) {
-                outStack[++outTop] = inStack[inTop--];
+        if (outStack.isEmpty()) {
+            while (!inStack.isEmpty()) {
+                outStack.push(inStack.pop());
             }
         }
     }
 }
+
 /**
  * Your MyQueue object will be instantiated and called as such:
  * MyQueue obj = new MyQueue();
