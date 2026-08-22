@@ -33,7 +33,7 @@
        // return minStack.peek();
     //}
 //}
-
+           //STACK APPROACH
 class MinStack {
     private Node head;
 
@@ -73,6 +73,7 @@ class MinStack {
         return head.min;
     }
 }
+              // MORE EFFICIENT APPROACH
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
