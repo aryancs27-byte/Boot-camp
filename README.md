@@ -77,6 +77,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/aryancs27-byte/Boot-camp/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/aryancs27-byte/Boot-camp/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
@@ -278,4 +279,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aryancs27-byte/Boot-camp/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/aryancs27-byte/Boot-camp/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryancs27-byte/Boot-camp/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
