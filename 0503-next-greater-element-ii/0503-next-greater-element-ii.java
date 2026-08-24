@@ -1,25 +1,25 @@
 import java.util.Arrays;
-import java.util.Stack;
 
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
         int[] ans = new int[n];
         Arrays.fill(ans, -1);
-        Stack<Integer> st = new Stack<>();
+        
+        int[] stack = new int[n];
+        int top = -1;
 
-        for (int i = 2 * n - 1; i >= 0; i--) {
-            int idx = i % n;
+        for (int i = 0; i < 2 * n; i++) {
+           
+            int idx = i < n ? i : i - n;
 
-            while (!st.isEmpty() && st.peek() <= nums[idx]) {
-                st.pop();
+            while (top >= 0 && nums[stack[top]] < nums[idx]) {
+                ans[stack[top--]] = nums[idx];
             }
 
-            if (i < n && !st.isEmpty()) {
-                ans[idx] = st.peek();
+            if (i < n) {
+                stack[++top] = idx;
             }
-
-            st.push(nums[idx]);
         }
 
         return ans;
