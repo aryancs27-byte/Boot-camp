@@ -18,6 +18,7 @@
 | [0503-next-greater-element-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/aryancs27-byte/Boot-camp/tree/main/0735-asteroid-collision/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -85,6 +86,7 @@
 | [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/aryancs27-byte/Boot-camp/tree/main/0735-asteroid-collision/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/aryancs27-byte/Boot-camp/tree/main/0735-asteroid-collision/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
