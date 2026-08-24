@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/aryancs27-byte/Boot-camp/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/aryancs27-byte/Boot-camp/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/aryancs27-byte/Boot-camp/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0078-subsets/) | Medium |
@@ -332,5 +333,10 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/aryancs27-byte/Boot-camp/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/aryancs27-byte/Boot-camp/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0078-subsets/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/aryancs27-byte/Boot-camp/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
