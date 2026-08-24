@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/aryancs27-byte/Boot-camp/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -55,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/aryancs27-byte/Boot-camp/tree/main/0383-ransom-note/) | Easy |
+| [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
@@ -79,6 +81,7 @@
 | [0155-min-stack](https://github.com/aryancs27-byte/Boot-camp/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aryancs27-byte/Boot-camp/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aryancs27-byte/Boot-camp/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/aryancs27-byte/Boot-camp/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryancs27-byte/Boot-camp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
@@ -287,4 +290,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aryancs27-byte/Boot-camp/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aryancs27-byte/Boot-camp/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
