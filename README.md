@@ -12,6 +12,7 @@
 | [0179-largest-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0274-h-index](https://github.com/aryancs27-byte/Boot-camp/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
@@ -149,6 +150,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryancs27-byte/Boot-camp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -295,9 +298,18 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aryancs27-byte/Boot-camp/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aryancs27-byte/Boot-camp/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0503-next-greater-element-ii/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
