@@ -8,6 +8,7 @@
 | [0046-permutations](https://github.com/aryancs27-byte/Boot-camp/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/aryancs27-byte/Boot-camp/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/aryancs27-byte/Boot-camp/tree/main/0056-merge-intervals/) | Medium |
+| [0063-unique-paths-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0063-unique-paths-ii/) | Medium |
 | [0075-sort-colors](https://github.com/aryancs27-byte/Boot-camp/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/aryancs27-byte/Boot-camp/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/aryancs27-byte/Boot-camp/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryancs27-byte/Boot-camp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0509-fibonacci-number/) | Easy |
@@ -329,6 +331,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/aryancs27-byte/Boot-camp/tree/main/0200-number-of-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
