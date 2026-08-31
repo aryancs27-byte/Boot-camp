@@ -246,6 +246,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryancs27-byte/Boot-camp/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@
 | [0112-path-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/aryancs27-byte/Boot-camp/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryancs27-byte/Boot-camp/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +330,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/aryancs27-byte/Boot-camp/tree/main/0200-number-of-islands/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryancs27-byte/Boot-camp/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,4 +351,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/aryancs27-byte/Boot-camp/tree/main/0062-unique-paths/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryancs27-byte/Boot-camp/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
