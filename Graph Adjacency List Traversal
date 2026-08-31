@@ -1,0 +1,17 @@
+
+class Solution {
+    public List<List<Integer>> printGraph(int V, int edges[][]) {
+        List<List<Integer>> ed = new ArrayList<>();
+        for(int i  = 0; i<V; i++){
+            ed.add(new ArrayList<>());
+        }
+        
+        for(int[]edge : edges){
+            int u = edge[0];
+            int v = edge[1];
+            ed.get(u).add(v);
+            ed.get(v).add(u);
+        }
+        return ed;
+    }
+}
