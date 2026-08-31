@@ -31,6 +31,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/aryancs27-byte/Boot-camp/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/aryancs27-byte/Boot-camp/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryancs27-byte/Boot-camp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0509-fibonacci-number/) | Easy |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/aryancs27-byte/Boot-camp/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/aryancs27-byte/Boot-camp/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/aryancs27-byte/Boot-camp/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/aryancs27-byte/Boot-camp/tree/main/0326-power-of-three/) | Easy |
@@ -339,4 +341,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/aryancs27-byte/Boot-camp/tree/main/0051-n-queens/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/aryancs27-byte/Boot-camp/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
