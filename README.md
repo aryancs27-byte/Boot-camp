@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryancs27-byte/Boot-camp/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0136-single-number/) | Easy |
 | [0179-largest-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/aryancs27-byte/Boot-camp/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -184,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
