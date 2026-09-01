@@ -158,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0191-number-of-1-bits](https://github.com/aryancs27-byte/Boot-camp/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/aryancs27-byte/Boot-camp/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
