@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/aryancs27-byte/Boot-camp/tree/main/0735-asteroid-collision/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aryancs27-byte/Boot-camp/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
+| [0994-rotting-oranges](https://github.com/aryancs27-byte/Boot-camp/tree/main/0994-rotting-oranges/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryancs27-byte/Boot-camp/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@
 | [0200-number-of-islands](https://github.com/aryancs27-byte/Boot-camp/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aryancs27-byte/Boot-camp/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/aryancs27-byte/Boot-camp/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/aryancs27-byte/Boot-camp/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryancs27-byte/Boot-camp/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -340,6 +342,7 @@
 | [0063-unique-paths-ii](https://github.com/aryancs27-byte/Boot-camp/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/aryancs27-byte/Boot-camp/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/aryancs27-byte/Boot-camp/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/aryancs27-byte/Boot-camp/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
