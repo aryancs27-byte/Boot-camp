@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/aryancs27-byte/Boot-camp/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
@@ -68,6 +69,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryancs27-byte/Boot-camp/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/aryancs27-byte/Boot-camp/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aryancs27-byte/Boot-camp/tree/main/0496-next-greater-element-i/) | Easy |
@@ -82,6 +84,7 @@
 | [0179-largest-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/aryancs27-byte/Boot-camp/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryancs27-byte/Boot-camp/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/aryancs27-byte/Boot-camp/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/aryancs27-byte/Boot-camp/tree/main/0912-sort-an-array/) | Medium |
@@ -112,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryancs27-byte/Boot-camp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryancs27-byte/Boot-camp/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/aryancs27-byte/Boot-camp/tree/main/0704-binary-search/) | Easy |
 ## Quicksort
@@ -136,6 +140,7 @@
 | [0062-unique-paths](https://github.com/aryancs27-byte/Boot-camp/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/aryancs27-byte/Boot-camp/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/aryancs27-byte/Boot-camp/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0509-fibonacci-number/) | Easy |
@@ -189,6 +194,7 @@
 | [0136-single-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aryancs27-byte/Boot-camp/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/aryancs27-byte/Boot-camp/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/aryancs27-byte/Boot-camp/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/aryancs27-byte/Boot-camp/tree/main/0342-power-of-four/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
